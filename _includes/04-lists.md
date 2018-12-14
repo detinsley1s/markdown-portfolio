@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. Video games
+2. Reading
+3. Horror movies
+4. Learning
+5. Programming
